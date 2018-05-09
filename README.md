@@ -1,36 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sam-lopez/sam-lopez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 360
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Project Description
 
-### Markdown
+I took a panorama photo of the flag pole at the East Office of the Searcy High School. I wanted to find a place that had a pretty good setting and I thought of the East entrance as it is where everyone goes to register for classes, where the flag pole is, and where the library is near.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sam-lopez/sam-lopez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/samlopez/shs-flag-pole'></script>
 
 ### Support or Contact
 
